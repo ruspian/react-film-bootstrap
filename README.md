@@ -1,5 +1,15 @@
+# Web Film Sederhana
+
+## Halaman Utama
 ![main.png](https://github.com/ruspian/react-film-bootstrap/blob/main/src/assets/images/main.png)
-# Getting Started with Create React App
+
+## Halaman Tranding
+![main.png](https://github.com/ruspian/react-film-bootstrap/blob/main/src/assets/images/tranding.png)
+
+## Halaman Superhero
+![main.png](https://github.com/ruspian/react-film-bootstrap/blob/main/src/assets/images/superhero.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
