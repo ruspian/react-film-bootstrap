@@ -1,4 +1,4 @@
-![main.png]()
+![main.png](https://github.com/ruspian/react-film-bootstrap/blob/main/src/assets/images/main.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
